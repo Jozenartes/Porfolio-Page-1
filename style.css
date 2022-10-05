@@ -27,6 +27,7 @@ header{
     font-weight: bold;
     padding-left: 150px;
     padding-right: 150px;
+    color: white;
  }
 
 ul{
@@ -51,19 +52,19 @@ h1{
 }
 
 p{
-    
+    line-height: 25px;
     padding-bottom: 30px;
     font-size: 15px;
     margin: 0 auto;
 }
 
 #one{
-    width: 601px;
+    width: 610px;
     
 }
 
 #two{
-    width: 600px;
+    width: 610px;
 }
 
 .purple_text{
