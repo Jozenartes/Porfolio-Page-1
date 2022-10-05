@@ -12,14 +12,21 @@ body{
 
 header{
     background: rgb(134, 134, 241);
-    height:200px; 
+    height:200px;
+    margin-bottom: 100px;
 }
 
+.hero{
+    font-size: 30px;
+}
  nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
     height:100%;
+    font-weight: bold;
+    padding-left: 150px;
+    padding-right: 150px;
  }
 
 ul{
@@ -27,9 +34,38 @@ ul{
     list-style: none;
     gap: 10px;
     font-size: 20px;
+    font-weight: bold;
+}
+.container{
+    text-align: center;
 }
 
 img{
     height: 100px;
     width: auto;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin-bottom: 25px;
+}
+
+p{
+    
+    padding-bottom: 30px;
+    font-size: 15px;
+    margin: 0 auto;
+}
+
+#one{
+    width: 601px;
+    
+}
+
+#two{
+    width: 600px;
+}
+
+.purple_text{
+    color: rgb(134, 134, 241);
 }
